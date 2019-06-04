@@ -1,2 +1,2 @@
-# H5Show2
-预览H5页面用
+# Python tools
+游戏处理常用脚本
